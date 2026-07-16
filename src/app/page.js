@@ -3,8 +3,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      <h1 className="text-3xl">Home</h1>
-      <button className="btn">get started</button>
+      <h1>Collect customer feedback to build better products</h1>
+      <p>Codefast is a SaaS platform that helps you collect customer feedback to build better products. Get started for free.</p>
 
     </main>
   );
